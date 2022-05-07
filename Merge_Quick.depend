@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1648303186 source:d:\hcmut\hk212\computer_systems_engineering\project\merge_quick\merge_quick.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+	<string>
+	<chrono>
+	"Helper.h"
+	"MyMergeSort.h"
+	"MyQuickSort.h"
+	"TestCaseGen.h"
+
+1647240758 d:\hcmut\hk212\computer_systems_engineering\project\merge_quick\mymergesort.h
+	<iostream>
+	<vector>
+
+1647240183 d:\hcmut\hk212\computer_systems_engineering\project\merge_quick\myquicksort.h
+	<iostream>
+	<vector>
+
+1648303296 d:\hcmut\hk212\computer_systems_engineering\project\merge_quick\testcasegen.h
+	<iostream>
+	<algorithm>
+
+1647253481 d:\hcmut\hk212\computer_systems_engineering\project\merge_quick\helper.h
+	<random>
+	<iostream>
+	<iomanip>
+	<string>
+	<sstream>
+	<cassert>
+	<vector>
+
